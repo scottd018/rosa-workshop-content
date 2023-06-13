@@ -27,10 +27,10 @@ nav:
   - Deploy and Expose an App:
     - Deploy the App: 300-app/deploy.md
     - Make the App Resilient: 300-app/resilience.md
+    - Using OpenShift GitOps: 300-app/gitops.md
     - Restrict Network Access: 300-app/networkpolicy.md
-    - "[Optional] Using OpenShift GitOps": 300-app/gitops.md
-    - "[Optional] Deploying the App with Tekton": 300-app/cicd.md
-  - "[Optional] Service Mesh":
+    - Deploying the App with Tekton: 300-app/cicd.md
+  - Service Mesh:
     - Introduction to OpenShift Service Mesh: 400-service-mesh/introduction.md
     - Deploy Service Mesh Operator: 400-service-mesh/install.md
     - Deploy Control Plane: 400-service-mesh/deploy-control-plane.md
